@@ -1,14 +1,6 @@
-# LING5832 - Homework 3 - Submission
-
-### Authors :
-
-- Bhargav Shandilya
-- Arvind Sreenivas
-- Dananjay Srinivas
-
 Primary script for submission is in `crf_ner_tagger-2.py`
 
-Our submission (predictions on test data) is in `test_data_predictions-2.txt`
+The submission (predictions on test data) is in `test_data_predictions-2.txt`
 
 `train_meta_files-2` consists of the validation set (`goldstandardfile.txt`) and its respective output in (`yoursystemoutput.txt`). You can run these files to coroborate our reported F1 score.
 
